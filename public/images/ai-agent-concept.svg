@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-labelledby="title desc">
+  <title id="title">Concepto de agentes de IA</title>
+  <desc id="desc">Asistente virtual conectado con tareas, documentos y automatizaciones.</desc>
+  <rect width="1200" height="750" fill="#f8fbff"/>
+  <g stroke="#0f2847" stroke-width="6" fill="none" opacity=".18">
+    <path d="M220 170h760M220 370h760M220 570h760"/>
+    <path d="M310 95v560M600 95v560M890 95v560"/>
+  </g>
+  <g transform="translate(448 135)">
+    <ellipse cx="160" cy="470" rx="132" ry="23" fill="#0f172a" opacity=".12"/>
+    <rect x="55" y="48" width="265" height="208" rx="82" fill="#0ea5e9"/>
+    <rect x="95" y="92" width="185" height="93" rx="38" fill="#082f49"/>
+    <circle cx="151" cy="138" r="13" fill="#e0f2fe"/>
+    <circle cx="226" cy="138" r="13" fill="#e0f2fe"/>
+    <path d="M163 176c20 16 40 16 60 0" stroke="#e0f2fe" stroke-width="9" stroke-linecap="round" fill="none"/>
+    <path d="M86 252h206c25 0 45 20 45 45v120c0 30-24 54-54 54H96c-30 0-54-24-54-54V296c0-24 20-44 44-44Z" fill="#1d4ed8"/>
+    <path d="M100 318h178M100 365h130" stroke="#bfdbfe" stroke-width="16" stroke-linecap="round"/>
+  </g>
+  <g fill="#ffffff" stroke="#164e63" stroke-width="6">
+    <rect x="105" y="100" width="230" height="130" rx="18"/>
+    <rect x="850" y="92" width="235" height="138" rx="18"/>
+    <rect x="110" y="480" width="265" height="132" rx="18"/>
+    <rect x="825" y="488" width="265" height="132" rx="18"/>
+  </g>
+  <g fill="#0f2847">
+    <path d="M180 150h82v16h-82zM180 184h120v16H180z"/>
+    <path d="M910 142h118v16H910zM910 176h82v16h-82z"/>
+    <path d="M170 535h140v16H170zM170 568h88v16h-88z"/>
+    <path d="M885 542h145v16H885zM885 575h92v16h-92z"/>
+  </g>
+  <g fill="none" stroke="#14b8a6" stroke-width="8" stroke-linecap="round">
+    <path d="M335 165c66 7 112 28 150 68"/>
+    <path d="M850 165c-72 8-126 32-170 78"/>
+    <path d="M375 544c68-3 113-26 150-67"/>
+    <path d="M825 550c-76-5-126-29-166-75"/>
+  </g>
+  <g fill="#8b5cf6" opacity=".9">
+    <circle cx="395" cy="150" r="12"/>
+    <circle cx="810" cy="150" r="12"/>
+    <circle cx="420" cy="555" r="12"/>
+    <circle cx="790" cy="560" r="12"/>
+  </g>
+</svg>

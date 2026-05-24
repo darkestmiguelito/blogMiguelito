@@ -1,0 +1,12 @@
+{
+  "name": "blog-agentes-ia-2026",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo \"Sitio estatico listo para Vercel\""
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
