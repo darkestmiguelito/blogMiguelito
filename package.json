@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "npx serve .",
-    "build": "echo \"Sitio estatico listo para Vercel\""
+    "build": "node build.js",
+    "start": "npx serve dist"
   },
   "devDependencies": {
     "serve": "^14.2.4"

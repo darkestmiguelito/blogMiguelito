@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-labelledby="title desc">
+  <title id="title">Uso responsable y seguridad en IA</title>
+  <desc id="desc">Robot protegido por un escudo con senales de privacidad y verificacion.</desc>
+  <rect width="1200" height="750" fill="#f8fafc"/>
+  <g stroke="#123524" stroke-width="7" fill="none" opacity=".25">
+    <path d="M95 120h185v135H95zM930 125h175v135H930zM110 495h210v140H110zM900 500h215v135H900z"/>
+    <path d="M160 168h60M980 178h72M165 555h95M960 560h95"/>
+  </g>
+  <g transform="translate(400 115)">
+    <ellipse cx="225" cy="505" rx="150" ry="24" fill="#0f172a" opacity=".14"/>
+    <rect x="80" y="70" width="265" height="210" rx="82" fill="#44d18d"/>
+    <rect x="118" y="112" width="190" height="92" rx="38" fill="#0b2f23"/>
+    <circle cx="174" cy="158" r="13" fill="#ffffff"/>
+    <circle cx="248" cy="158" r="13" fill="#ffffff"/>
+    <path d="M142 277h190c26 0 47 21 47 47v114c0 50-40 90-90 90H154c-50 0-90-40-90-90V355c0-43 35-78 78-78Z" fill="#44d18d"/>
+    <path d="M155 343c31 22 74 35 129 35" stroke="#0b2f23" stroke-width="12" stroke-linecap="round" fill="none"/>
+    <path d="M520 230c-52 54-112 82-180 86v100c0 82 56 158 180 221 124-63 180-139 180-221V316c-68-4-128-32-180-86Z" fill="#ffffff" stroke="#123524" stroke-width="10"/>
+    <path d="M520 310c-35 32-75 51-120 58v55c0 56 37 107 120 151 83-44 120-95 120-151v-55c-45-7-85-26-120-58Z" fill="#f8fafc" stroke="#123524" stroke-width="8"/>
+    <rect x="468" y="405" width="104" height="80" rx="14" fill="#123524"/>
+    <path d="M490 405v-30c0-40 60-40 60 0v30" stroke="#123524" stroke-width="20" stroke-linecap="round" fill="none"/>
+    <circle cx="520" cy="443" r="12" fill="#ffffff"/>
+    <path d="M520 454v23" stroke="#ffffff" stroke-width="8" stroke-linecap="round"/>
+  </g>
+  <g fill="#f43f5e">
+    <circle cx="180" cy="190" r="38"/>
+    <path d="M180 163v34" stroke="#ffffff" stroke-width="12" stroke-linecap="round"/>
+    <circle cx="180" cy="213" r="6" fill="#ffffff"/>
+    <path d="M995 560l45 78h-90l45-78Z"/>
+  </g>
+  <g fill="none" stroke="#123524" stroke-width="8" stroke-linecap="round">
+    <path d="M815 160l58 58M873 160l-58 58"/>
+    <path d="M235 570l58 58M293 570l-58 58"/>
+  </g>
+</svg>

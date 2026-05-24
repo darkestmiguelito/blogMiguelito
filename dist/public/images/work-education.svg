@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-labelledby="title desc">
+  <title id="title">Trabajo y educacion con inteligencia artificial</title>
+  <desc id="desc">Paneles de productividad, estudio y colaboracion asistida por IA.</desc>
+  <rect width="1200" height="750" fill="#07101d"/>
+  <rect x="70" y="70" width="1060" height="610" rx="28" fill="#f8fafc"/>
+  <rect x="100" y="110" width="290" height="500" rx="16" fill="#eaf2ff"/>
+  <rect x="430" y="110" width="310" height="235" rx="16" fill="#dbeafe"/>
+  <rect x="430" y="375" width="310" height="235" rx="16" fill="#eef2ff"/>
+  <rect x="780" y="110" width="320" height="500" rx="16" fill="#e0f2fe"/>
+  <g fill="#0f172a">
+    <rect x="135" y="155" width="180" height="18" rx="9"/>
+    <rect x="135" y="205" width="220" height="12" rx="6" opacity=".5"/>
+    <rect x="135" y="235" width="170" height="12" rx="6" opacity=".5"/>
+    <rect x="465" y="150" width="180" height="18" rx="9"/>
+    <rect x="465" y="420" width="190" height="18" rx="9"/>
+    <rect x="825" y="155" width="205" height="18" rx="9"/>
+  </g>
+  <g fill="none" stroke="#0ea5e9" stroke-width="14" stroke-linecap="round">
+    <path d="M145 330h185M145 375h135M145 420h215"/>
+    <path d="M465 215h200M465 255h155"/>
+    <path d="M465 485h200M465 525h120"/>
+  </g>
+  <g transform="translate(835 235)">
+    <rect x="0" y="0" width="220" height="175" rx="22" fill="#ffffff"/>
+    <path d="M35 62h150M35 102h105" stroke="#64748b" stroke-width="14" stroke-linecap="round"/>
+    <circle cx="175" cy="125" r="28" fill="#8b5cf6"/>
+    <path d="M163 125l9 10 19-24" stroke="#ffffff" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g transform="translate(820 470)">
+    <circle cx="65" cy="65" r="48" fill="#0ea5e9"/>
+    <circle cx="165" cy="65" r="48" fill="#14b8a6"/>
+    <path d="M43 65h44M143 65h44" stroke="#ffffff" stroke-width="12" stroke-linecap="round"/>
+    <path d="M65 43v44M165 43v44" stroke="#ffffff" stroke-width="12" stroke-linecap="round"/>
+  </g>
+</svg>
